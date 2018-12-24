@@ -22,9 +22,13 @@ Overall, the classifier works well for being a simplistic algorithm. In one case
 4. Naïve Bayes Classifier - Extra
 
 The extra code implements an additional task with the Naïve Bayes Classifier, i.e. to determine if a language match is valid (correct) or not.
+
 This new task is approached in two steps:
+
   I.	For each extra test sentence the lowest and second lowest logprobs are compared to determine if the top language match stands out significantly, or if it is just the “best” bad match among many bad matches. Instead of comparing the logprob outputs as is, the average logprob is normalized for a word in the sentence. Then the percentage difference between the lowest and second lowest normalized logprobs are calculated and it was determined that a value of 0.1 (10%) or greater resulted in a valid match.
+
   II.	An additional test was added to compare the ratio of known to unknown words identified for test sentences by the model. This test was added based on the knowledge that a majority of human language is comprised of the ~1,000 most common words (the exact numbers vary by language, but it’s about 80% for the most common 1,000 words in English).  A fairly conservative test for this classification task is to check if the number of known words in a sentence is greater than the number of unknowns in the language model. This additional test is especially helpful when the top and second top language matches have close logprobs not because they are bad matches, but because of language relatedness (such as the Norwegian and Danish example discussed above).
+
   a.	This additional known > unknown words test was applied to cases where the logprobs fell in a gray area of classification: 0.01 < logprob < 0.1.
   
 The file output-extra is in the same format as for the main output file (numbers in ascending order, language names alphabetical).
