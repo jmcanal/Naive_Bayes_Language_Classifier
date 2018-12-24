@@ -1,0 +1,540 @@
+1	The scope of the discipline of statistics broadened in the early 19th century to include the collection and analysis of data in general.
+dan	-92.46713185402686
+deu	-87.73904432762495
+dut	-84.45118468696691
+eng	-62.444902740727144
+fin	-88.19174770561187
+fra	-93.41564325837852
+gla	-83.96027461743141
+ita	-86.55894093132125
+nob	-85.59465369571082
+pol	-81.37968098612984
+por	-91.93312920661096
+spa	-92.34150405730733
+swe	-91.37994454347835
+swh	-84.28234092111933
+tgl	-87.75376401260297
+result	eng
+
+10	Den er basert på statistisk teori som er en gren av matematikk. Innenfor statistisk teori er tilfeldighet og usikkerhet utformet ved hjelp av sannsynlighetsteori. 
+dan	-77.23232336976537
+deu	-92.17370671176386
+dut	-90.02052954239579
+eng	-97.30108666192334
+fin	-91.1676809844293
+fra	-94.94020897217929
+gla	-86.11783402673996
+ita	-94.97769871324995
+nob	-69.18225572838968
+pol	-87.85545996810436
+por	-95.67584346407357
+spa	-94.53783334475328
+swe	-80.60421966224462
+swh	-90.45973657714556
+tgl	-97.13553157956929
+result	nob
+
+11	Ordet statistik kan dels avse datauppgifter som ofta presenteras i numerisk form, vanligen i tabeller eller diagram, dels vetenskapen om hur dessa datauppgifter skall samlas in, utvärderas, analyseras och presenteras. 
+dan	-107.51707025016441
+deu	-118.21259694112085
+dut	-116.59066371380705
+eng	-118.5825513511479
+fin	-115.03271439862418
+fra	-121.84649120658071
+gla	-109.59238059553945
+ita	-113.08077868953436
+nob	-101.91488287003875
+pol	-104.64947817455409
+por	-119.77702121165348
+spa	-121.40804850520516
+swe	-99.45656459996835
+swh	-112.77364072576798
+tgl	-121.4194144744616
+result	swe
+
+12	Det kan være, at det er dyrt at lave målingerne eller, at det ikke er fysisk muligt at undersøge mere end et udsnit af populationen. For eksempel er det ikke muligt at undersøge alt vandet i verdenshavene. 
+dan	-95.45382470383822
+deu	-144.19606819090012
+dut	-142.48902133083965
+eng	-139.98394835390692
+fin	-141.87368109163654
+fra	-147.5047407273486
+gla	-133.65438352310704
+ita	-144.47293067459765
+nob	-106.7034426519425
+pol	-133.19341411518536
+por	-147.53297771974863
+spa	-148.965394433415
+swe	-131.3704320859915
+swh	-139.45876055643274
+tgl	-136.7026391390432
+result	dan
+
+13	Hisabati ni somo inayohusika na idadi, upimaji na ukubwa. Kwa ujumla ni somo inayohusika na miundo na vielezo. Hisabati inatimiza somo mbalimbali, kama hesabu, jiometria na aljebra.
+dan	-109.87946463907736
+deu	-108.50070372904463
+dut	-105.69503464759092
+eng	-109.46372249466374
+fin	-103.52944295876176
+fra	-108.19474060809254
+gla	-91.70189507698657
+ita	-107.42486230968447
+nob	-102.45947948509941
+pol	-88.71086313779355
+por	-98.80056464365197
+spa	-107.4365158203054
+swe	-107.03503070295075
+swh	-81.19272604833986
+tgl	-91.95150607244071
+result	swh
+
+14	na nanggaling ang salitang Italyano na statista, na nangangahulugang "dalubhasa sa pagpapalakad ng pamahalaan" o "pulitiko", at ang Aleman na Statistik, sa orihinal na kahulugan, ang pagpipili ng pagsusuri ng datos tungkol sa estado. 
+dan	-135.66472179460766
+deu	-136.6305158069451
+dut	-134.30256132165323
+eng	-136.15512086242646
+fin	-130.37040965177408
+fra	-134.78756932450682
+gla	-113.85731431214897
+ita	-133.13687978306166
+nob	-127.75896716127858
+pol	-108.88390229389486
+por	-124.2419617196345
+spa	-135.39229990293484
+swe	-138.1111986929906
+swh	-115.26383448510344
+tgl	-89.24565131928804
+result	tgl
+
+15	Aineistoa on tavallisesti mahdollista kerätä vain populaation osajoukosta, jolloin tutkimuksen kohteena on otos. Otoksesta voidaan kerätä aineistoa joko havainnoiden tai kokeellisessa asetelmassa. 
+dan	-89.53141563184079
+deu	-88.40798081625857
+dut	-89.90936954705298
+eng	-84.91525277443861
+fin	-73.55180090335651
+fra	-86.43318302507102
+gla	-84.41721956599932
+ita	-87.53136928937253
+nob	-83.77246533594952
+pol	-79.08017418155646
+por	-88.16988285256444
+spa	-89.0325689038171
+swe	-89.36921461712913
+swh	-82.92142519571676
+tgl	-89.04090394793852
+result	fin
+
+16	Palikuwa pia na vipindi na utamaduni ambako wapiganaji walikuwa watu wa pekee wenye jukumu hii ama kwa sababu walipaswa kuwa askari kufuatana na sheria za nchi au kwa sababu walikodiwa kwa kazi hii.
+dan	-133.97626410313646
+deu	-132.33076136445857
+dut	-131.76357735347165
+eng	-133.78899416014457
+fin	-126.5359858384866
+fra	-132.04529962705223
+gla	-119.4851956238641
+ita	-131.0707265240708
+nob	-125.65869800392427
+pol	-113.53036325713315
+por	-126.3839451181512
+spa	-133.30901034128505
+swe	-134.05382192569374
+swh	-88.67828997108764
+tgl	-125.47491089243718
+result	swh
+
+17	considera-se o estado "ideal" de guerra, ou seja, uma guerra em que prevalece a diplomacia, a estratégia e a racionalidade, não havendo inspiração de ordem emocional ou moralista. 
+dan	-109.74470961115577
+deu	-112.16240824132754
+dut	-110.83578075654258
+eng	-110.40614006437443
+fin	-109.23210539791772
+fra	-99.37472443019487
+gla	-101.32706254138384
+ita	-99.9298794683593
+nob	-106.15662690552408
+pol	-100.23518532440177
+por	-80.30768270491784
+spa	-95.42923048372005
+swe	-111.73838450162381
+swh	-109.30551503071756
+tgl	-113.08730910269608
+result	por
+
+18	Vanaf het begin is oorlog voeren al onderworpen geweest aan wetten en reglementen, al zijn die in de loop der tijd wel veranderd. Er is met name veel nagedacht over de rechtvaardiging van een oorlog. 
+dan	-130.64478180987214
+deu	-129.22763906419615
+dut	-98.9225695286821
+eng	-133.1719037008622
+fin	-133.1000040217934
+fra	-134.0867744102445
+gla	-126.2193704449345
+ita	-130.53747787833066
+nob	-125.39706659705828
+pol	-127.45353900586032
+por	-134.19359927272032
+spa	-128.7283825861674
+swe	-134.2200817236254
+swh	-131.61941917933996
+tgl	-139.42809684892487
+result	dut
+
+19	El concepto de quiénes son los combatientes también varía con el grado de organización de las sociedades enfrentadas. Las dos posibilidades más frecuentes son civiles sacados de la población general, generalmente varones jóvenes, 
+dan	-124.07432052687042
+deu	-126.72561676233778
+dut	-121.696453080409
+eng	-132.87164868266655
+fin	-126.33430769526244
+fra	-117.22857563893409
+gla	-117.81807902918014
+ita	-121.76134156893353
+nob	-117.72828530872277
+pol	-120.80125745614353
+por	-118.19393152957628
+spa	-97.63258672200244
+swe	-125.11307264362189
+swh	-122.52480529714389
+tgl	-129.10558251268043
+result	spa
+
+2	Cé go bhfuil an chuma air nach féidir rudaí deimhneacha a rá faoi eachtraí randamacha, le coincheap na dóchúlachta, is féidir a rá cad é an seans go dtarlóidh eachtra fánach agus mar sin, is féidir cur síos a dhéanamh ar an gcóras.
+dan	-171.0754710055871
+deu	-164.36560382331436
+dut	-168.5110958833786
+eng	-155.9459208904315
+fin	-164.81592391147672
+fra	-164.86924205773465
+gla	-126.33225740251923
+ita	-162.4751674207219
+nob	-162.64018132543873
+pol	-150.05200292253963
+por	-159.5596457129837
+spa	-164.17754352629353
+swe	-172.93479074189534
+swh	-159.4962029008819
+tgl	-171.33901240357145
+result	gla
+
+20	Bhris an cogadh amach sa bhliain 1775 nuair a ghlac na réabhlóidithe seilbh ar na rialtais i ngach coilíneacht agus chuireadar an Dara Chomhdháil Ilchríochach agus an tArm Ilchríochach nua ar bun. 
+dan	-122.8941267857328
+deu	-119.17750676444888
+dut	-124.53983472111217
+eng	-118.34121132810138
+fin	-118.84570485861674
+fra	-121.44590314053924
+gla	-86.08263868777712
+ita	-118.90008173982234
+nob	-115.52847158435948
+pol	-104.27332138158805
+por	-117.77267317531673
+spa	-122.98097325499212
+swe	-123.19022055875949
+swh	-111.6888428124719
+tgl	-117.14025767147189
+result	gla
+
+21	la guerre économique pouvant alors, sous une apparence plus socialement et éthiquement acceptable, satisfaire d'autres appétits de pouvoirs que ceux qui animaient les auteurs des guerres ethniques, de religions, de classe, 
+dan	-116.85952529893325
+deu	-118.44628546730242
+dut	-116.61142472744062
+eng	-129.40381103531925
+fin	-122.550303417781
+fra	-95.6856792844856
+gla	-116.89986125294884
+ita	-116.56241677192203
+nob	-114.14031615890478
+pol	-117.14061329080585
+por	-113.50013098067723
+spa	-111.75972670873985
+swe	-123.28602293608851
+swh	-118.7556496064295
+tgl	-126.17221204917188
+result	fra
+
+22	Kriget framträder antingen som försvarskrig, till avvärjande av framställda anspråk, som ej kan godtas, eller anfallskrig, som avser att framtvinga sådana anspråks godkännande: 
+dan	-83.37300944617851
+deu	-92.42652539881578
+dut	-92.41044919627659
+eng	-93.24687471767653
+fin	-88.19174770561187
+fra	-93.41564325837852
+gla	-88.25436590990837
+ita	-91.51006789343492
+nob	-76.46294239345377
+pol	-84.19481580276667
+por	-92.17760480040828
+spa	-93.0795038539906
+swe	-73.99330325939609
+swh	-86.69058088643116
+tgl	-93.0882177637539
+result	swe
+
+23	Karamihan sa mga isla dito ay mabundok, at ang iba ay may mga bulkan, kabilang na ang pinakamataas na bahagi ng bansa, Ang Hapon ay pangsampu sa may pinakamalaking populasyon, na may 128 milyong katao. 
+dan	-135.66472179460766
+deu	-136.6305158069451
+dut	-136.16187433117014
+eng	-133.33772804029743
+fin	-130.37040965177408
+fra	-135.8892762277128
+gla	-120.18593851963917
+ita	-134.7545821558595
+nob	-127.75896716127858
+pol	-115.63770983768805
+por	-130.36909135080145
+spa	-137.59578830589916
+swe	-138.11605895374507
+swh	-120.4188180847779
+tgl	-81.3356528008084
+result	tgl
+
+24	For a state to prosecute a war it must have the support of its leadership, its military forces, and the population. For example, in the 
+dan	-95.57442278034685
+deu	-96.17211205645053
+dut	-97.59306949446527
+eng	-63.37483090064386
+fin	-95.817728625597
+fra	-97.00195240725367
+gla	-89.62837427402937
+ita	-92.08011257031433
+nob	-92.30724237562337
+pol	-86.30701826367927
+por	-94.78597663891682
+spa	-96.22535335356453
+swe	-100.17427373803814
+swh	-93.32580228086802
+tgl	-98.006754136329
+result	eng
+
+25	Si giunge alla guerra quando il contrasto di interessi economici, ideologici, strategici o di altra natura non riesce a trovare una soluzione negoziata, o quando almeno una delle parti percepisce l'inesistenza di altri mezzi per il conseguimento 
+dan	-153.74464685634834
+deu	-152.1380659872368
+dut	-154.34273625566965
+eng	-151.5863548696737
+fin	-145.6866715516291
+fra	-143.76169769662783
+gla	-143.61566141613503
+ita	-112.10127829698932
+nob	-144.69789467118554
+pol	-134.69303317764488
+por	-142.20519564160995
+spa	-142.9726391709199
+swe	-152.3851220145566
+swh	-143.22791624714714
+tgl	-145.96945030544921
+result	ita
+
+26	Krig kan defineres som, erklærede fjendtlige handlinger mellem to eller flere lande eller stater. Årsagerne til krig kan være mange, for eksempel: ønske om at udvide landet, 
+dan	-81.70224152868342
+deu	-108.50070372904463
+dut	-105.18165151886197
+eng	-102.95134341834053
+fin	-103.52944295876176
+fra	-109.66184208592263
+gla	-103.60295128554459
+ita	-107.42486230968447
+nob	-81.63736215427399
+pol	-97.36027120939775
+por	-107.67475104962426
+spa	-109.26724365468463
+swe	-97.34807962600416
+swh	-101.76720364928876
+tgl	-106.66787861779022
+result	nob
+
+27	Wojna jest zjawiskiem spoleczno-politycznym i jako takie jest obecna w historii czlowieka od poczatków jego spolecznej organizacji. Zasieg wojny jest zalezny od stopnia rozwoju technologicznego.
+dan	-103.20582115943054
+deu	-104.48215914648742
+dut	-106.25652764651717
+eng	-105.40951055041694
+fin	-99.69501914547429
+fra	-105.6002923790366
+gla	-97.72048196284888
+ita	-101.46421901498938
+nob	-96.48927491709823
+pol	-76.78971235791036
+por	-104.20077064393978
+spa	-105.22030870451113
+swe	-103.05698462469981
+swh	-97.99804795857436
+tgl	-105.23015921120006
+result	pol
+
+28	Während individuelles oder kollektives Rauben und absichtliches Töten von Menschen heute generell als Verbrechen gilt und in einem Rechtsstaat strafbar ist, wird "Krieg" nicht als gewöhnliche Kriminalität betrachtet,
+dan	-113.94907444052467
+deu	-87.72456475141811
+dut	-108.44878950983143
+eng	-111.05232838773014
+fin	-107.36386677204924
+fra	-113.72339179280866
+gla	-106.00873386529466
+ita	-109.08727086267494
+nob	-106.61950133666302
+pol	-101.82902984849652
+por	-112.21621453962744
+spa	-113.31417860485814
+swe	-112.71688323458605
+swh	-105.23532934433918
+tgl	-113.32478684283083
+result	deu
+
+29	Tavoitteellisuus tekee sodasta poliittista toimintaa. Jos tavoitteisiin päästään neuvottelemalla tai sodan uhalla, ei kalliiseen taisteluun ole tarvetta. Vihollisen taistelukyky voidaan poistaa tappamalla ja vangitsemalla sen johtajat ja riisumalla sen armeija aseista. 
+dan	-125.71157823783818
+deu	-122.81840845924006
+dut	-126.69047527084741
+eng	-125.68057027165095
+fin	-101.34178079840484
+fra	-125.90804091346673
+gla	-118.95153666118081
+ita	-123.33965672593402
+nob	-117.86692807796409
+pol	-113.23009165225156
+por	-124.23938038315895
+spa	-125.45498345537867
+swe	-125.46386210992611
+swh	-116.84382641214636
+tgl	-125.46672829027699
+result	fin
+
+3	Na przyklad wzrost czlowieka jest uwarunkowany ogromna iloscia czynników, takich jak genetyka, dieta, srodowisko, przy czym niektóre z nich równiez maja losowa nature. 
+dan	-93.6010254332881
+deu	-92.38802450179367
+dut	-93.93810400533046
+eng	-92.88551408073546
+fin	-88.19174770561187
+fra	-93.14294431454273
+gla	-87.65230591858041
+ita	-91.51006789343492
+nob	-87.58030466940177
+pol	-73.41468845764591
+por	-91.41575127178024
+spa	-93.0795038539906
+swe	-93.43145164518046
+swh	-86.21345963171152
+tgl	-93.0882177637539
+result	pol
+
+30	Fysisk styrke og våpen har i uminnelige tider vært brukt som et maktmiddel i konflikter mellom mennesker. Et organisert militærvesen av et eller annet slag har derfor vært et viktig del av maktapparatet 
+dan	-108.12621785333391
+deu	-130.16616629958347
+dut	-132.41486791316382
+eng	-133.78899416014457
+fin	-126.5359858384866
+fra	-125.69979548250237
+gla	-122.5351833914256
+ita	-122.92680588379199
+nob	-93.26694793978886
+pol	-116.30041745152573
+por	-129.99662122742666
+spa	-129.00522845149672
+swe	-113.74791717471753
+swh	-124.38213779357515
+tgl	-133.56135592190776
+result	nob
+
+4	approccio i dati risultati da un esperimento vengono indagati attraverso metodi di sintesi al fine di formulare ipotesi riguardo la legge di probabilità sottesa 
+dan	-92.35534569822389
+deu	-94.09109016035688
+dut	-95.33741600433478
+eng	-97.30108666192334
+fin	-92.02617151889935
+fra	-92.69161448195938
+gla	-88.79091676992746
+ita	-73.24387587678656
+nob	-87.25034695979582
+pol	-85.60503996579544
+por	-92.70148741583063
+spa	-90.0322793895675
+swe	-94.93251056859715
+swh	-88.6024040807143
+tgl	-94.80107782841836
+result	ita
+
+5	dedica a la generación de los modelos, inferencias y predicciones asociadas a los fenómenos en cuestión teniendo en cuenta lo aleatorio e incertidumbre en las observaciones. Se usa para modelar patrones en los datos 
+dan	-124.28779184177529
+deu	-131.2860023956673
+dut	-124.07911706585688
+eng	-133.08197834623974
+fin	-125.5552915951728
+fra	-118.13119401415602
+gla	-123.02820731469633
+ita	-120.65116282769532
+nob	-118.51342250473166
+pol	-121.39894378739669
+por	-119.56569036154791
+spa	-95.80415400004247
+swe	-126.10511968788467
+swh	-126.2939609878583
+tgl	-134.03232838751737
+result	spa
+
+6	Cette distinction ne consiste pas à définir plusieurs domaines étanches. En effet, le traitement et l'interprétation des données ne peuvent se faire que lorsque celles-ci ont été récoltées. 
+dan	-114.04193712331505
+deu	-114.49826596851933
+dut	-116.73835598311327
+eng	-121.62635832740415
+fin	-109.79988270732701
+fra	-88.23530610813373
+gla	-113.37402762777751
+ita	-107.84017737255135
+nob	-111.68863734008939
+pol	-109.81932496013047
+por	-110.70191430814258
+spa	-110.74457428706903
+swe	-119.88857818675365
+swh	-113.07467072143196
+tgl	-121.4194144744616
+result	fra
+
+7	Porque o objetivo da estatística é a produção da melhor informação possível a partir dos dados disponíveis, alguns autores sugerem que a estatística é um ramo da teoria da decisão.
+dan	-115.11928351042422
+deu	-112.606872795322
+dut	-121.01897586503453
+eng	-114.55701073484322
+fin	-114.96841433873946
+fra	-113.35097512488936
+gla	-99.34799348626917
+ita	-103.96746943450786
+nob	-109.65066786085458
+pol	-103.77089075313116
+por	-83.76796726944296
+spa	-106.46996129653843
+swe	-121.32840296219442
+swh	-113.07467072143196
+tgl	-119.66353961878912
+result	por
+
+8	Door de tweeledigheid van populatie en steekproef ontstaat veel verwarring. Men dient steeds goed te onderscheiden of men over de populatie (verdeling) spreekt dan wel over de steekproef. 
+dan	-98.59507750160603
+deu	-108.22815593085365
+dut	-83.50548652459327
+eng	-108.6900827287316
+fin	-105.53312074713774
+fra	-102.81534512367804
+gla	-101.91925266260722
+ita	-107.40346741662235
+nob	-94.5654531801699
+pol	-101.74470896279648
+por	-103.35595282899577
+spa	-101.21153910196226
+swe	-101.79226917719865
+swh	-104.9342993486752
+tgl	-108.9037755398627
+result	dut
+
+9	Die deskriptive Statistik (auch beschreibende Statistik oder empirische Statistik): mit der vorliegende Daten in geeigneter Weise beschrieben und zusammengefasst werden. 
+dan	-78.39445350151198
+deu	-62.795749842091865
+dut	-78.1835918542517
+eng	-78.61863283375573
+fin	-76.68847626574946
+fra	-81.23099413772044
+gla	-75.31156311402222
+ita	-77.25768203017584
+nob	-75.31168862903075
+pol	-72.54387652579503
+por	-80.15443895687677
+spa	-80.93869900347008
+swe	-80.21898701017541
+swh	-75.08208381862399
+tgl	-80.94627631630775
+result	deu
+
